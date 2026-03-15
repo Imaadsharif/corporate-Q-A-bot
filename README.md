@@ -1,7 +1,4 @@
-Here is a **professional `README.md`** for your **Azure AI Search + Azure OpenAI Corporate Q&A Bot** project.
-You can copy this into a file called **`README.md`** in your repo.
 
----
 
 # Corporate Q&A Bot (Azure AI Search + Azure OpenAI)
 
@@ -234,6 +231,3 @@ Use `.gitignore` to exclude them.
 
 This project is provided for educational and experimental purposes.
 
----
-
-If you want, I can also give you a **much stronger README used in production RAG projects (with diagrams, screenshots, and badges)** which will make your repository look **very professional for recruiters**.
